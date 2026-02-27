@@ -1,0 +1,17 @@
+for...each:
+"it is a method that works on array only and it takes function in it "
+break and continue gives error in it
+example :   let array =[1,2,3,4,5]
+            forEach(checkeven)
+            function checkeven(x){
+            if(x%2===0)
+            console,log(x)
+
+            } 
+
+for...of: it is a normal loop that takes the index and loop it through whatever    after the (of)
+break and continue dont give error in it
+example :
+array=[1,2,3,4,5]
+for(let i of array)
+// so it will loop by index i through the array 

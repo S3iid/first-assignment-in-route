@@ -1,0 +1,2 @@
+== (loose equality operator): compare between the value of the two sides 
+===(strict equality operator): compare between the value of the 2 sides and the type 

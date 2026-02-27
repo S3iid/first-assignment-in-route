@@ -1,0 +1,2 @@
+it is the time zone from the begining of the block till the decleration of the variable 
+and in this duration this variable is hoisted 

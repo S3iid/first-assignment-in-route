@@ -1,2 +1,2 @@
 "use strict"
-console.log(Number("123")+7)
+ console.log(Number("123")+7)

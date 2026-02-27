@@ -1,0 +1,13 @@
+try and catch handles the error 
+
+write the code that can make the   error in the (try) and  handle it by a message in (catch)
+
+ the async operations : are the operations that javascript doent wait for it to end it continue 
+ the excution of code until the async operation is done 
+ or 
+ operations that run in the background without blocking the excution of the rest of the program
+
+ try and catch is important in async operations because it avoid the crash of the whole program 
+ 
+ for example when use (await): if an error happens without using try and catch it will give error and program 
+ crash but in the presence of  try and catch  it catches the error 

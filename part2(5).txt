@@ -1,0 +1,12 @@
+type conversion : u can change as u want (explixt)
+ana ele bt7km feha  
+a="123"
+console.log(typeof.Number(a)) //number 
+
+coercion :  == , + , - 
+it automatically changes the type 
+ex : console.log("5"+5) //5
+      there is alogic error here as the result should be 10 not 55 
+      but here javascript changes the number to string instead of string to number
+      { - , * , / } --> javascript changes string to number
+in == : if there are two different types then javascript change the type and compare 
